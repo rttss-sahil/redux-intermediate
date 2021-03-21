@@ -1,0 +1,8 @@
+const actions = {
+    ADD_SHOPPING: "ADD_SHOPPING",
+    REMOVE_SHOPPING: "REMOVE_SHOPPING",
+    ADD_GROCERY: "ADD_GROCERY",
+    REMOVE_GROCERY: "REMOVE_GROCERY"
+}
+
+export default actions;
